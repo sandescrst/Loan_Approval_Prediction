@@ -12,22 +12,22 @@ Used five models of Machine learning to predict either the loan will be granted 
 10. Credit_History
 11. Property_Area
 
-# Response Variable: Loan Status
+###### Response Variable: Loan Status
  
 Models and thier accuracy:
---------------------
+
 LogisticRegression:
 Accuracy: 81.5217%
---------------------
+
 KNeighborsClassifier:
 Accuracy: 78.2609%
---------------------
+
 MLPClassifier:
 Accuracy: 80.4348%
---------------------
+
 GaussianNB:
 Accuracy: 81.5217%
---------------------
+
 RandomForestClassifier:
 Accuracy: 84.7826%
 
