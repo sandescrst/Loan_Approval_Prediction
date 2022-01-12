@@ -1,21 +1,21 @@
 # Loan_Approval_Prediction
 Used five models of Machine learning to predict either the loan will be granted or not using different factors:
-1)Gender
-2)'Married' 
-3)Dependents
-4)Education
-5)Self_Employed      
-6)ApplicantIncome
-7)CoapplicantIncome
-8)LoanAmount
-9)Loan_Amount_Term
-10)Credit_History
-11)Property_Area
-       
- Response Variable: Loan Status
+1. Gender
+2. Married
+3. Dependents
+4. Education
+5. Self_Employed 
+6. ApplicantIncome
+7. CoapplicantIncome
+8. LoanAmount
+9. Loan_Amount_Term
+10. Credit_History
+11. Property_Area
+
+# Response Variable: Loan Status
  
- Models and thier accuracy:
- --------------------
+Models and thier accuracy:
+--------------------
 LogisticRegression:
 Accuracy: 81.5217%
 --------------------
